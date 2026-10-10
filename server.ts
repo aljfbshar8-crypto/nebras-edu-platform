@@ -8,8 +8,7 @@ import {
   generateAcademicSolutionFallback,
   generateAcademicQuizFallback,
   generateAcademicExamGraderFallback,
-} from './academicEngine';
-
+} from './academicEngine.ts';
 dotenv.config();
 
 const app = express();
