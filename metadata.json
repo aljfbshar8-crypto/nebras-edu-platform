@@ -1,0 +1,6 @@
+{
+  "name": "نبراس للتعلم الذكي | Nebras EduAI",
+  "description": "منصة تفاعلية للتعلم الذاتي مدعومة بالذكاء الاصطناعي لحل وشرح مسائل الرياضيات بالخطوات وتصحيح فوري للاختبارات بالصور بدقة 100% وتوافق تام مع المناهج الدراسية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
